@@ -1,5 +1,5 @@
 こちらは、ただひたすら桜の花が落ちてくる、季節を無視して作ったhtmlファイルです。  
 ElectronでソフトウェアにすればWindowsでの演出にも使えますね。  
 勉強がてら遊びがてらで作ったものなので品質はひどいですが、桜の絵を雪の結晶にでもすれば冬向けにもなりますし、遊んでみてはいかがでしょうか。  
-Electronに通したものの紹介ページ(公開は別)：  `[https://suzuki3141.wordpress.com/2025/08/30/pc%e3%81%ae%e3%81%9f%e3%82%81%e3%81%ae%e6%a1%9c%e5%b9%95/](https://suzuki3141.wordpress.com/2025/08/30/pc%e3%81%ae%e3%81%9f%e3%82%81%e3%81%ae%e6%a1%9c%e5%b9%95/)`    
-Electronに通したものの公開ページ(CPU3種対応セット詰め合わせ)：  `[https://d.kuku.lu/7rgeewsaj](https://d.kuku.lu/7rgeewsaj)`
+Electronに通したものの紹介ページ(公開は別)：  https://suzuki3141.wordpress.com/2025/08/30/pc%e3%81%ae%e3%81%9f%e3%82%81%e3%81%ae%e6%a1%9c%e5%b9%95/   
+Electronに通したものの公開ページ(CPU3種対応セット詰め合わせ)：  https://d.kuku.lu/7rgeewsaj
